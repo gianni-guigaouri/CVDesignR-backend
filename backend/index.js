@@ -1,6 +1,6 @@
 import express from 'express'
 
-import routes from './src/routes/toDoRoutes'
+import routes from './src/routes/offersRoutes'
 import mongoose from 'mongoose'
 import bodyParser from 'body-parser'
 
